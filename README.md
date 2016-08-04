@@ -1,1 +1,1 @@
-# revival-cbv
+Fucntional based views
